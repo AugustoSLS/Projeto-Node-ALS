@@ -1,7 +1,7 @@
 {
   "name": "Projeto-Node-ALS",
   "version": "1.0.0",
-  "description": "É ele",
+  "description": "Projeto Noticias Plao",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
